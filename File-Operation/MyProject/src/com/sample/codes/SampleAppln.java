@@ -1,3 +1,4 @@
+package com.sample.codes;
 
 public class SampleAppln {
 

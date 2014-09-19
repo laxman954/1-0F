@@ -3,5 +3,24 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="Jar-needed/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/geoip2-0.7.2.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/geoip-api-1.2.14.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/google-api-client-http-1.2.0-alpha.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/geoip2-0.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/geoip2-0.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/geoip2-0.7.2.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/google-http-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="Jar-needed/maxmind/maxmind-db-0.3.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

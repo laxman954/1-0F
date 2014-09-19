@@ -1,0 +1,49 @@
+Geniusfoods:
+  Phase2 Functionality:
+    -Mini-basket open - Show products that are free gifts
+    -Separate out allergens from dietary advice - so "Contains x" is visually separate from "Free of y, free of z".  Also requirement to list allergens in BOLD (this can be phase 2)
+    -Ability to bold product ingredients as required (to comply with new UK legislation).
+    -Filter products, e.g. by Dairy Free (Existing product attributes)
+   Campaign:
+     -Hybris Development @done  @Pending_UI_QA
+  Where to buy:
+    ES & AU:
+      - ES & AU map default
+    NL & FR:
+       @start 18th sep IST 12.10 PM    @update completed in local  IST 16.00 PM @pending QA,Design, VM frontend in Dev & PRD 
+      -Create CMS media component for NL & FR Store 
+      -Based on country content loaded in Where to buy page
+      -VM creation for front end
+      -Impex for above things
+      -Update VM for CMS enable for client
+      -Validate the Pages.
+    Stockist Info:
+      -validate uploaded content.
+  Product:
+    -Visible product data in other countries. @clarification
+  Recipe:
+    -Upload Recipe Data @done  sep18th
+    - new recipe category dinner @clarification instead baking @pending
+    -Recipe category empty for NL,ES @clarification
+    -recipe category not displayed - if category contains no recipe
+  Homepage:
+    -Change Coutry Enable
+    -Country Flag NL & AU flag not there.
+  Product:
+    -Filter search UI
+  Other Configuration:
+    -Changes in Solr -en_AU,nl_NL,es_ES
+    -check local.properties for url's, maxmind
+   PRD Build:
+     PRD Fix:
+        -Add phone no fields to all address form @completed @QA @PRDpending
+        -Validate following after build  @done 18th Sep 2014      
+    	       -Check Date for homepage,Blog listing,Comments, Events, press @done 
+           -Page title name @done
+           -&  in Product listing @done 
+           -recipe description @done
+           -Top Rated @done
+           -Check configurations. @done
+    
+        
+        

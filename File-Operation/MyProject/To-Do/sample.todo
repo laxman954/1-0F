@@ -1,0 +1,15 @@
+-A new todo starting a new line with hyphen
+-Todo can be marked as done with @done
+
+Use project Structure in todo list use colon in end :
+	  -Project task todo
+		  Use sub project using tab or two spaces:
+		  -Sub porject task
+		  			  Another sub project:
+			  
+
+'''
+		  public String generateRandomID() {
+		    return UUID.randomUUID().toString();
+	  }
+'''
