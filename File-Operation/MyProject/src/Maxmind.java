@@ -11,7 +11,7 @@ import com.maxmind.geoip2.model.CountryResponse;
 public class Maxmind {
 
 	public static void main(String[] args) throws UnknownHostException, IOException {
-		final WebServiceClient serviceClient = new WebServiceClient.Builder(90704, "YYYYYYYYY").build();
+		final WebServiceClient serviceClient = new WebServiceClient.Builder(111111, "YYYYYYYYY").build();
 
 		try
 		{
